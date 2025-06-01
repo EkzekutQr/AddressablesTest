@@ -77,7 +77,7 @@ MonoBehaviour:
       - m_Id: 64347cd75eff4e343b6a63fea9df84e1
         m_Value: ServerData/[BuildTarget]
       - m_Id: a4aac35e53ad7e94aa211370011eb7e3
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: https://addressables-test.pages.dev/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: a2ac9f76c58fd66429c5a093ca50ebb4
       m_Name: BuildTarget
